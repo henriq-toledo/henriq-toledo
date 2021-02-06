@@ -1,16 +1,21 @@
-### Hi there 👋
+## About me
+- C# Backend Developer
 
-<!--
-**henriq-toledo/henriq-toledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Skills
+- C#, .NET Framework, .NET Core, Asp.NET
+- Web API, Dependency Injection
+- Unit Test (MSTest, NUnit, Moq)
+- Test automation (Selenium WebDriver)
+- SQL, Microsoft SQL Server
+- ORM (Entity Framework)
+- ERP (Microsoft Dynamics AX 4.0, 2009, 2012)
+- DevSecOps (Jenkins, Sonar, Veracode)
+- Agile, Scrum, SAFe
+- Visual Studio, Visual Studio Code
+- Git, SourceTree, GitHub
+- Jira, Team Foundation Server
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Knowledge
+- Cloud (Azure, Azure DevOps)
+- Oracle, SQLite
+- Frontend (HTML, JavaScript, CSS)
