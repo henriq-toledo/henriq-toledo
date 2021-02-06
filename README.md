@@ -2,7 +2,7 @@
 - C# Backend Developer
 
 ## Technical Skills
-- [C#](https://www.youracclaim.com/badges/ce5c063f-6d7b-4aa3-8c8c-80fd264f08a2), .NET Framework, .NET Core, Asp.NET
+- [C#](https://www.youracclaim.com/badges/ce5c063f-6d7b-4aa3-8c8c-80fd264f08a2), .NET Framework, .NET Core, ASP.NET
 - Web API, Dependency Injection
 - Unit Test (MSTest, NUnit, Moq)
 - Test automation (Selenium WebDriver)
