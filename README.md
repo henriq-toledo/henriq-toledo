@@ -3,7 +3,7 @@
 
 ## Technical Skills
 - [C#](https://www.youracclaim.com/badges/ce5c063f-6d7b-4aa3-8c8c-80fd264f08a2), .NET Framework, [.NET Core](https://github.com/henriq-toledo/questioner), ASP.NET
-- Web API, Dependency Injection
+- Web API, [Dependency Injection](https://github.com/henriq-toledo/questioner), [Fluent Validation](https://github.com/henriq-toledo/questioner)
 - Unit Test ([MSTest](https://github.com/henriq-toledo/unit-test-example), NUnit, Moq)
 - Test automation (Selenium WebDriver)
 - SQL, Microsoft SQL Server
